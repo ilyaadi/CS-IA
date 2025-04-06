@@ -1,2 +1,2 @@
-# CS-IA
-Comp Sci IA
+# Farm Manager
+ farm manager
