@@ -13,8 +13,7 @@ A web application built for managing expenses on a local farm. Developed as part
 
 ## How to Use
 1. Clone the repository
-2. Open `index.html` in browser (or run local server)
-3. Start logging expenses!
+2. Start logging expenses!
 
 ## Author
 Aadi Sharma
